@@ -99,7 +99,9 @@ body {
     background-image: url('https://www.genengnews.com/wp-content/uploads/2018/09/genetic-engineering-background.jpg');
     background-repeat: no-repeat;
     background-size: 3000px;
-
+    color:white;
+    font-weight: bold;
+    text-align:center;
 }
 .top-image {
     display: block;
